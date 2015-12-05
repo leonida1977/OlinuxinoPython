@@ -1,4 +1,5 @@
+#!/usr/bin/env python
 __author__ = 'daniele'
-print "Halt!"
-s = raw_input("Who Goes there? ")
-print "You may pass,", s
+print("Halt!")
+s = input("Who Goes there? ")
+print("You may pass,", s)
